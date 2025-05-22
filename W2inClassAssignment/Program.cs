@@ -1,10 +1,6 @@
 ﻿namespace W2inClassAssignment;
 using System;
 
-
-// Program.cs
-
-
 class Program
 {
     static void Main(string[] args)
